@@ -1,2 +1,0 @@
-# discuz-relive
-123
